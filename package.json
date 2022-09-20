@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "This is a tour agency website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirahamed/Natours.git"
+  },
+  "author": "Abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abirahamed/Natours/issues"
+  },
+  "homepage": "https://github.com/abirahamed/Natours#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
